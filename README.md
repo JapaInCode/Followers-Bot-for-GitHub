@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1135979458298388592/1162819453743018014/flirty_wink.png?ex=653d5301&is=652ade01&hm=3bf7ea29d60d75af5008c71ba8d3ac50263182e8e3015426b714a1b8115fee48" alt="Logo" width="200">
+</p>
+
 # Followers Bot for GitHub
 
 ## Funcionalidades
@@ -31,7 +35,8 @@ Para usar este código, siga os seguintes passos:
    ```bash
    cd C:\\JapaInCode\bot-git
 4. Execute o código
-   ```python main.py
+   ```bash
+   python main.py
 
 Certifique-se de que o arquivo `word-list.txt` esteja na mesma pasta que o `main.py`.
 
