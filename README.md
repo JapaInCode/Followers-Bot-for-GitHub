@@ -27,7 +27,7 @@ Para usar este código, siga os seguintes passos:
 
 1. Clone este repositório em sua máquina local:
    ```bash
-   git clone
+   git clone https://github.com/JapaInCode/Followers-Bot-for-GitHub.git
 2. Instale as bibliotecas necessárias
    ```bash
    pip install colorama requests hexor
